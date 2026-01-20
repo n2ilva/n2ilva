@@ -30,7 +30,8 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Stack
 <div align="center">
 
-🎨 Frontend
+🎨 Frontend 
+<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React">
@@ -46,6 +47,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
 
 ⚙️ Backend & Tools
+<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
 
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo">
@@ -55,6 +57,7 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code">
 
 🗄️ Databases & BaaS
+<br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
