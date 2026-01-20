@@ -29,6 +29,7 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Stack
 <div align="center">
+<br>
 
 🎨 Frontend 
 <br>
@@ -46,6 +47,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
 
+<br>
 ⚙️ Backend & Tools
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
@@ -56,6 +58,7 @@
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code">
 
+<br>
 🗄️ Databases & BaaS
 <br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
@@ -66,6 +69,7 @@
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
 
+<br>
 </div> <br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Projetos em Destaque
