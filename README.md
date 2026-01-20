@@ -27,43 +27,6 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Sobre Mim
-
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  education: string[];
-  experience: string;
-  currentlyLearning: string[];
-  databases: string[];
-  passions: string[];
-}
-
-const natanael: Developer = {
-  name: "Natanael Silva",
-  location: "Goiânia-GO 🇧🇷",
-  education: [
-    "🎓 Redes de Computadores (Completo)",
-    "📚 Análise e Desenvolvimento de Sistemas (Estácio)"
-  ],
-  experience: "5+ anos em TI",
-  currentlyLearning: [
-    "React", "Next.js", "Node.js", 
-    "React Native", "TypeScript"
-  ],
-  databases: [
-    "PostgreSQL", "MongoDB", 
-    "Supabase", "Firebase"
-  ],
-  passions: [
-    "💡 Resolver problemas complexos",
-    "🚀 Criar apps que impactam vidas",
-    "📖 Aprendizado contínuo"
-  ]
-};
-<br>
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Stack
 <div align="center">
 
