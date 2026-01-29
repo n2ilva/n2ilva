@@ -35,14 +35,3 @@ Database     Firebase · Supabase · PostgreSQL · MongoDB
 | [**Sara Ramos**](https://github.com/n2ilva/SaraRamos) | Plataforma educativa interativa | React · TypeScript |
 | [**Portfolio Maker**](https://github.com/n2ilva/PortifolioMaker) | Criador de portfólios dinâmicos | React · TypeScript |
 
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=n2ilva&color=58a6ff&style=flat-square&label=views)
-
-</div>
-<sub>Feito com 💜 por Natanael Silva</sub>
-
-</div> ```
-
