@@ -34,4 +34,6 @@ Database     Firebase · Supabase · PostgreSQL · MongoDB
 | [**Controle Financeiro**](https://github.com/n2ilva/ControleFinanceiro) | Gestão de finanças pessoais | React Native · TypeScript |
 | [**Sara Ramos**](https://github.com/n2ilva/SaraRamos) | Plataforma educativa interativa | React · TypeScript |
 | [**Portfolio Maker**](https://github.com/n2ilva/PortifolioMaker) | Criador de portfólios dinâmicos | React · TypeScript |
+| [**Card Master**](https://github.com/n2ilva/CardMaster) | Gerenciador de cartões | React Native · TypeScript |
+| [**Motorista Inteligente**](https://github.com/n2ilva/MotoristaInteligente) | App para motoristas | React Native · TypeScript |
 
