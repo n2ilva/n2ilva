@@ -20,8 +20,8 @@
 
 ```
 Frontend     JavaScript · TypeScript · Next.js · React · React Native
-Backend      Node.js · Expo
-Database     Firebase · Supabase · PostgreSQL · MongoDB
+Backend      Node.js · Expo · Kotlin
+Database     Firebase · Supabase · PostgreSQL · MongoDB · AWS
 ```
 
 ---
@@ -35,5 +35,5 @@ Database     Firebase · Supabase · PostgreSQL · MongoDB
 | [**Sara Ramos**](https://github.com/n2ilva/SaraRamos) | Plataforma educativa interativa | React · TypeScript |
 | [**Portfolio Maker**](https://github.com/n2ilva/PortifolioMaker) | Criador de portfólios dinâmicos | React · TypeScript |
 | [**Card Master**](https://github.com/n2ilva/CardMaster) | App de estudo com flashcards | React Native · TypeScript |
-| [**Motorista Inteligente**](https://github.com/n2ilva/MotoristaInteligente) | App para motoristas | React Native · TypeScript |
+| [**Motorista Inteligente**](https://github.com/n2ilva/MotoristaInteligente) | App para motoristas | Kotlin · OCR |
 
