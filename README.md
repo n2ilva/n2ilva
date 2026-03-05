@@ -33,7 +33,6 @@ Database     Firebase · Supabase · PostgreSQL · MongoDB · AWS
 | [**Agenda Familiar**](https://github.com/n2ilva/AgendaFamiliar) | Tarefas compartilhadas em família | React Native · Firebase |
 | [**Controle Financeiro**](https://github.com/n2ilva/ControleFinanceiro) | Gestão de finanças pessoais | React Native · TypeScript |
 | [**Sara Ramos**](https://github.com/n2ilva/SaraRamos) | Plataforma educativa interativa | React · TypeScript |
-| [**Portfolio Maker**](https://github.com/n2ilva/PortifolioMaker) | Criador de portfólios dinâmicos | React · TypeScript |
 | [**Quiz Master**](https://github.com/n2ilva/CardMaster) | App de estudo com flashcards | React Native · TypeScript |
 | [**Motorista Inteligente**](https://github.com/n2ilva/MotoristaInteligente) | App para motoristas | Kotlin · OCR |
 
